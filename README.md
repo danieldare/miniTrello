@@ -1,2 +1,2 @@
-# miniTrello
-miniTrello + FireBase
+# mini_trello
+mini trello + FireBase
